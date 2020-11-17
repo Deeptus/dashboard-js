@@ -1,6 +1,6 @@
 {
   "name": "aporteweb-dashboard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dashboard Panel",
   "main": "index.js",
   "scripts": {
