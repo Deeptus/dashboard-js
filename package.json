@@ -1,6 +1,6 @@
 {
   "name": "aporteweb-dashboard",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "Dashboard Panel",
   "main": "index.js",
   "scripts": {
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/Deeptus/dashboard-js#readme",
   "dependencies": {
-    "bootstrap": "^4.5.3",
+    "bootstrap": "^5.0.0-alpha3",
     "jquery": "^3.5.1",
     "popper.js": "^1.16.1",
     "sass": "^1.29.0",
@@ -34,6 +34,10 @@
     "sweetalert2": "^10.10.0",
     "vuedraggable": "^2.24.3",
     "vuelidate": "^0.7.6",
-    "vuex": "^3.5.1"
+    "vuex": "^3.5.1",
+    "simple-datatables": "^2",
+    "select2": "^4.0.13",
+    "bootstrap-select": "^1.13.18",
+    "jodit-vue": "^2.2.2"
   }
 }
