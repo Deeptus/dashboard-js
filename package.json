@@ -1,6 +1,6 @@
 {
   "name": "aporteweb-dashboard",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "description": "Dashboard Panel",
   "main": "index.js",
   "scripts": {
@@ -23,13 +23,11 @@
   },
   "homepage": "https://github.com/Deeptus/dashboard-js#readme",
   "dependencies": {
-    "@babel/plugin-proposal-nullish-coalescing-operator": "^7.12.1",
-    "@babel/plugin-proposal-optional-chaining": "^7.12.7",
-    "bootstrap": "^5.0.0-alpha3",
+    "@popperjs/core": "^2.5.4",
+    "bootstrap": "^5.0.0-beta1",
     "bootstrap-select": "^1.13.18",
     "jodit-vue": "^2.2.2",
     "jquery": "^3.5.1",
-    "popper.js": "^1.16.1",
     "sass": "^1.30.0",
     "sass-loader": "^10.1.0",
     "select2": "^4.0.13",
