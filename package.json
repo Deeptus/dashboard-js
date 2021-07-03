@@ -1,6 +1,6 @@
 {
   "name": "aporteweb-dashboard",
-  "version": "1.0.30",
+  "version": "1.0.31",
   "description": "Dashboard Panel",
   "main": "index.js",
   "scripts": {
@@ -28,7 +28,8 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.9.2",
-    "bootstrap": "^5.0.1",
+    "@vue/compiler-sfc": "^3.1.2",
+    "bootstrap": "^5.0.2",
     "bootstrap-select": "^1.13.18",
     "google-maps-api-loader": "^1.1.1",
     "jodit-vue": "^2.4.0",
