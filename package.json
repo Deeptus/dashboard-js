@@ -43,7 +43,7 @@
     "select2": "^4.1.0-rc.0",
     "simple-datatables": "^3.2.0",
     "startbootstrap-sb-admin-2": "^4.1.4",
-    "sweetalert2": "^11.4.10",
+    "sweetalert2": "^11.4.14",
     "vue": "^2.6.13",
     "vue-loader": "15.9.8",
     "vue-next": "^0.0.1",
